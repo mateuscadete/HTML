@@ -1,0 +1,4 @@
+.tabela1 , td , th {
+    width: 600px;
+    border: solid 1px #000;
+}
